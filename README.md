@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @k8tlivingstone
+- 👋 Hi, I’m KC 
 - 👀 I’m interested in developing new tools for logistics and supply chain functions
-- 🌱 I’m currently learning python - django
+- 🌱 I’m currently learning ruby on rails
 - 💞️ I’m looking to collaborate on java and python projects
 - 📫 How to reach me davincimedia21@gmail.com
 
